@@ -1,0 +1,11 @@
+body {
+  background: #3c3c3c;
+  margin: 0;
+}
+.game-area {
+  display: flex;
+  flex-direction: column;
+}
+.game {
+  width: 100%;
+}
